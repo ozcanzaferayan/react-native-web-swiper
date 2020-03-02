@@ -9,7 +9,7 @@ Hybrid Snack: https://snack.expo.io/@oxyii/react-native-web-swiper
 ## Installation
 
 ```bash
-$ npm i react-native-web-swiper --save
+$ yarn add git+https://git@github.com/ozcanzaferayan/react-native-web-swiper.git
 ```
 
 ## Usage
