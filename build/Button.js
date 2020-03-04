@@ -1,0 +1,1 @@
+import React from"react";import{Text,TouchableOpacity,View}from"react-native";export const Button=({onPress:a,title:b,titleStyle:c})=>React.createElement(View,null,React.createElement(TouchableOpacity,{onPress:a},React.createElement(Text,{style:c},b)));
